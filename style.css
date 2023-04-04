@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  color: gold;
+  font-family: 'arial black';
+  border-style: double;
+  border-width: 5px
+}
+
+img {
+margin-left:auto;  
+margin-right:auto;  
+display:block;  
+border-style: dotted;
+border-width: 5px;
+border-color: darkorange
+}
+
+h2 {
+  color: darkorange;
+  font-size: 50px;
+  font-family: arial;
+}
+
+p {
+  color: orangered;
+  font-size: 20px;
+  font-family: arial;
+  text-align: left;
+  margin-top: 2px
+}
